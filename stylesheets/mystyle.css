@@ -8,3 +8,14 @@ h1{
     font-size: 65px;
     text-align: center;
 }
+
+#quote{
+    font-style: italic;
+
+}
+
+.para{
+    font-size: 25px;
+    color: blue;
+
+}
