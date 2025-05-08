@@ -23,8 +23,11 @@ h1{
 body{
     margin: 0 auto;
     padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px solid black;
+    background-color: darksalmon;
 }
 
 html{
-    background-color: #dcd1dd;
+    background-color: grey;
 }
