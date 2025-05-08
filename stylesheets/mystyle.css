@@ -35,3 +35,8 @@ body{
 html{
     background-color: #9c1cae;
 }
+
+img{
+    display: block;
+    margin: 0 auto;
+}
